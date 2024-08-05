@@ -1,0 +1,19 @@
+{
+  "name": "petstore",
+  "version": "1.0.0",
+  "description": "PetStore-QA-Mastery-Bootcamp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hızır Yılmaz",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^13.13.2"
+  },
+  "dependencies": {
+    "@faker-js/faker": "^8.4.1",
+    "cypress-mochawesome-reporter": "^3.8.2",
+    "cypress-plugin-api": "^2.11.2"
+  }
+}
